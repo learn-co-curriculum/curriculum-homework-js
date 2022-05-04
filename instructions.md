@@ -57,6 +57,7 @@ Your submission will be evaluated on the following criteria:
 - **Example Code**
   - Did the candidate write well-formed, beginner-friendly code?
   - Are there any syntax or logical errors in the code they wrote?
+  - Did the candidate demonstrate knowledge of modern JavaScript and ES6?
 - **Grammar/Consistency**
   - Did the candidate fix grammatical and markdown formatting issues?
   - Did the candidate introduce any grammatical/stylistic issues in newly added
