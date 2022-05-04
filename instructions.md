@@ -5,9 +5,9 @@
 In this repository, you'll find a `README.md` file. This is a historical
 snapshot of a lesson that introduces students to the concept of `self` in Ruby.
 
-The `README.md` needs to be revised to teach the learning objectives in Python
-rather than Ruby. Please make edits to improve the content and translate the
-syntax of the example code to Python.
+The `README.md` needs to be revised to teach the learning objectives in
+JavaScript rather than Ruby. Please make edits to improve the content and
+translate the syntax of the example code to JavaScript.
 
 You can assume that students working on this lesson are familiar with the
 `class` keyword, instance attributes, and instance methods.
@@ -32,7 +32,7 @@ explaining the learning goals is.
 ## Guidelines
 
 First and foremost, your focus should be on ensuring the lesson teaches the
-following learning goals in Python:
+following learning goals in JavaScript:
 
 - Understand the concept of self-awareness in object-oriented programming
 - Understand how the `self` keyword works
